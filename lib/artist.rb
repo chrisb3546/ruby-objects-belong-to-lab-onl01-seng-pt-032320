@@ -7,6 +7,6 @@ def initialize
 end 
 
 artist = Artist.new 
-artist.name = name
+artist.name = ("1")
 
 end
