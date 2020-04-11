@@ -8,6 +8,6 @@ def initialize
 end 
 
 author = Author.new 
-author.name = name
+author.name = ("2")
 
 end
