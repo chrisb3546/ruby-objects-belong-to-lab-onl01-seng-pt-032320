@@ -8,6 +8,6 @@ def initialize
 end 
 
 song = Song.new 
-song.title = title
+song.title = ("")
 
 end
