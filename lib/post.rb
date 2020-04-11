@@ -1,7 +1,7 @@
 class Post 
   
     
- attr_accessor :title
+ attr_accessor :title, :author
 
 def initialize
   @title = title
@@ -9,6 +9,6 @@ end
 
 post = Post.new 
 post.title = ("Hello World")
-post.author = ()
+post.author = ("2")
 
 end
