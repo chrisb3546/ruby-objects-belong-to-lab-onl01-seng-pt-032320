@@ -9,5 +9,6 @@ end
 
 song = Song.new 
 song.title = ("")
+song.artist = 
 
 end
