@@ -6,5 +6,8 @@ def initialize(name)
   @name = name 
 end 
 
+def name_of_artist
 artist = Artist.new(name)
+end 
+
 end
