@@ -1,10 +1,13 @@
 class Song 
   
     
-attr_accessor :name
+attr_accessor :title
 
-def initialize(name)
-  @name = name 
+def initialize
+  @title = title
 end 
+
+song = Song.new 
+song.title = title
 
 end
