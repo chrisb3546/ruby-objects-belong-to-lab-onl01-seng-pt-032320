@@ -9,6 +9,6 @@ end
 
 song = Song.new 
 song.title = ("")
-song.artist = 
+song.artist = ("1")
 
 end
